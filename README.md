@@ -6,9 +6,9 @@ The user can select a city from the list for which he needs a weather forecast.
 
 The user has the opportunity to view data for the following time periods:
 
-“now” (for the day);
+• “now” (for the day);
 
-“the next five days” (by day for five days). Data is requested via OpenWeather's One Call API.
+• “the next five days” (by day for five days). Data is requested via OpenWeather's One Call API.
 
 What to do to make it work:
 
